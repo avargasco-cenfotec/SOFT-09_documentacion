@@ -1,4 +1,6 @@
 # SOFT-09_documentacion
+Introducción a la Ingeniería del Software
+
 Desarrollo de la práctica II del curso Introducción a la Ingeniería del Software
 
 El propósito es aprender sobre Git y GitLab, así como su uso.
